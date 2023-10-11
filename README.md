@@ -22,6 +22,6 @@
 | [16. Сглаживание графика Погоды](./contest_01/16/main.go) | ![](./img/go.png) |
 | [17. Дождь над островом](./contest_01/17/main.cpp) | ![](./img/cpp.png) |
 | [18. Заголовок столбца Excel](./contest_01/18/main.cpp) | ![](./img/cpp.png) |
-| [19. Подходящие Слова](./contest_01/19/main.gp) | ![](./img/go.png) |
+| [19. Подходящие Слова](./contest_01/19/main.go) | ![](./img/go.png) |
 | [20. Анаграмма. 2 числа](./contest_01/20/main.go) | ![](./img/go.png) |
 
